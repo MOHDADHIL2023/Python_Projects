@@ -39,3 +39,41 @@ A functional simulation of a real-world vending machine.
 - **Features:** Product selection, balance management, and change calculation.
 - **User Experience:** User-friendly prompts and error handling for insufficient funds.
 
+# 🌐 Web Development - Activity 1: Interactive Web Suite
+A collection of interactive web tools and games built using HTML5, CSS3, and Vanilla JavaScript to demonstrate DOM manipulation, event handling, and logical calculations.
+
+---
+
+## 🚀 Projects Overview
+
+### 🎵 1. Audio Sampler
+A web-based audio interface that allows users to trigger and play various sound samples.
+- **Functionality:** Maps specific audio files to interactive UI elements.
+- **Tech Focus:** HTML Audio API and event listeners.
+
+### 📺 2. Embedded Video Website
+A structured webpage showcasing media integration.
+- **Functionality:** Features responsive embedded video content.
+- **Tech Focus:** Iframe integration, aspect-ratio CSS, and media layout design.
+
+### ⛽ 3. Petrol Calculator
+A utility tool designed to calculate fuel costs and efficiency.
+- **Functionality:** Takes user input (distance, fuel price, consumption) and outputs total trip cost.
+- **Tech Focus:** JavaScript arithmetic operations and input validation.
+
+### 🎹 4. Interactive Sound Board
+A multi-button interface designed for instant sound playback.
+- **Functionality:** Plays distinct sound effects upon user interaction (click or keypress).
+- **Tech Focus:** Concurrent audio handling and UI state management.
+
+### 🎨 5. RGB Color Game
+A challenging game where users must identify the correct color based on generated RGB values.
+- **Functionality:** Generates a random RGB color and asks the user to pick the matching square.
+- **Tech Focus:** Math.random() logic, color string manipulation, and game state loops.
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3
+- **Scripting:** JavaScript (ES6+)
+- **Tools:** VS Code, Git

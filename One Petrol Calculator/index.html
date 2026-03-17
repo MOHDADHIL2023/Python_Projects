@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PETROL STATION CALCULATOR</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1>PETROL CALCULATOR</h1>
+
+    <div class="PC">
+    <div>
+        <p>Petrol Price Per Litre</p>
+        <input id="petrol_price" placeholder="Enter The Cost Of Petrol Price Per Litres" type="number" value="1.72">
+    </div>
+
+    <div class="PC1">
+        <p>Litre</p>
+        <input id="litres" placeholder="Enter The Number Of Litres Which You Purchased" type="number" value="1">
+    </div>
+
+    <div id="button">
+        <button onclick="calculate()">Calculate The Tolat Amount</button>
+    </div>
+
+    <div id="petrol_purchased">
+    <p>Total Amount Of Petrol Purchased: </p>
+    <div id="Total_Price">
+        <p id="Total_Receipt"></p>
+    </div>
+    </div>
+    </div>
+    
+    <footer>
+        &copy; Made By Mohd Adil Hossain
+    </footer>
+</body>
+</html>
